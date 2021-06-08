@@ -1,0 +1,4 @@
+Tarea #2: Se Encontraron 42 Oraciones en el Texto.
+Tarea #3: Se Encontraron 131 Parrafos en el Texto.
+Tarea #1: Se Encontraron 181 Palabras que terminan en 'n' en el Texto.
+Tarea #4: Se Encontraron 8066 Caracteres en el Texto.
